@@ -1,5 +1,6 @@
 ## Interface: 120005
+## Interface-Retail: 120005
 ## Title: BindingCleaner
 ## Notes: Removes all SHIFT/ALT/CTRL keybindings except Action Bars 1-8
-## Version: 1.0
+## Version: 1.3
 BindingCleaner.lua
