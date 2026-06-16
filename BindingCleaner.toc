@@ -1,4 +1,4 @@
-## Interface: 100005
+## Interface: 120005
 ## Title: BindingCleaner
 ## Notes: Removes all SHIFT/ALT/CTRL keybindings except Action Bars 1-8
 ## Version: 1.0
